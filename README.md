@@ -12,4 +12,4 @@ belajar github &amp; markdown
 
 ![rafa](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rafa_Silva_2020.png/220px-Rafa_Silva_2020.png)
 
-`code`
+`sudo su`
